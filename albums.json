@@ -1,0 +1,320 @@
+[
+    {
+        "Artista": "Joji",
+        "Album": "Nectar",
+        "Nominado": "True",
+        "Visitado": "True"
+    },
+    {
+        "Artist": "Twenty one pilots",
+        "Album": "Twenty One Pilots",
+        "Nominado": "True",
+        "Visitado": "True"
+    },
+    {
+        "Artist": "harry styles",
+        "Album": "fine line",
+        "Nominado": "True",
+        "Visitado": "True"
+    },
+    {
+        "Artist": "scorpions",
+        "Album": "moment of glory",
+        "Nominado": "True",
+        "Visitado": "True"
+    },
+    {
+        "Artist": "My Chemical Romance",
+        "Album": "The Black Parade",
+        "Nominado": "True",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "X100 pre",
+        "Album": "bad bunny",
+        "Nominado": "True",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "Vacations",
+        "Album": "changes",
+        "Nominado": "True",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "ghost",
+        "Album": "opus eponymous",
+        "Nominado": "True",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "Black sabbath",
+        "Album": "heaven and hell",
+        "Nominado": "True",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "AC/DC",
+        "Album": "high voltage",
+        "Nominado": "True",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "Being as an Ocean",
+        "Album": "Dear G-d...",
+        "Nominado": "True",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "Darkthrone",
+        "Album": "A Blaze in the Northern Sky",
+        "Nominado": "True",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "Black Sabbath",
+        "Album": "Black Sabbath",
+        "Nominado": "False",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "Electric Wizard",
+        "Album": "dopethrone",
+        "Nominado": "False",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "Rage against the machine",
+        "Album": "evil empire",
+        "Nominado": "False",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "Rammstein",
+        "Album": "sehsucht",
+        "Nominado": "False",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "Megadeth",
+        "Album": "rust in peace",
+        "Nominado": "False",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "Brand new",
+        "Album": "Science fiction",
+        "Nominado": "False",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "HIM",
+        "Album": "Uneasy Listening vol 1",
+        "Nominado": "False",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "harry styles",
+        "Album": "harry's house",
+        "Nominado": "False",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "harry styles",
+        "Album": "hs1",
+        "Nominado": "False",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "Mac DeMarco",
+        "Album": "This Old Dog",
+        "Nominado": "False",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "Extremoduro",
+        "Album": "La ley innata",
+        "Nominado": "False",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "Alex Turner",
+        "Album": "Submarine",
+        "Nominado": "False",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "I prevail",
+        "Album": "trauma",
+        "Nominado": "False",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "me and that man",
+        "Album": "New Man, New Songs, Same Shit, Vol. 1",
+        "Nominado": "False",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "Aerosmith",
+        "Album": "toys in the attic",
+        "Nominado": "False",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "Foster the people",
+        "Album": "torches",
+        "Nominado": "False",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "Led zeppelin",
+        "Album": "led zeppelin lll",
+        "Nominado": "False",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "Pantera",
+        "Album": "vulgar display of power",
+        "Nominado": "False",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "Aretha Franklin",
+        "Album": "I Never Loved a Man the Way I Love You",
+        "Nominado": "False",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "AC/DC",
+        "Album": "Back in Black (1980)",
+        "Nominado": "False",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "Queen",
+        "Album": "Queen II",
+        "Nominado": "False",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "Kanye West",
+        "Album": "My Beautiful Dark Twisted Fantasy",
+        "Nominado": "False",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "David Bowie",
+        "Album": "The Rise & Fall of Ziggy Stardust and the Spiders from Mars",
+        "Nominado": "False",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "Bon Iver",
+        "Album": "For Emma, Forever Ago",
+        "Nominado": "False",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "Gorillaz",
+        "Album": "Demon Days",
+        "Nominado": "False",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "Miles Davis",
+        "Album": "Kind of Blue",
+        "Nominado": "False",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "Burial",
+        "Album": "UnTrue",
+        "Nominado": "False",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "Radiohead",
+        "Album": "OK Computer",
+        "Nominado": "False",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "Paul Simon",
+        "Album": "Graceland",
+        "Nominado": "False",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "The Beatles",
+        "Album": "Sgt. Pepper's Lonely Hearts Club Band",
+        "Nominado": "False",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "Daft Punk",
+        "Album": "Discovery",
+        "Nominado": "False",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "Weezer",
+        "Album": "Pinkerton",
+        "Nominado": "False",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "Wu-Tang Clan",
+        "Album": "Enter the Wu-Tang (36 Chambers)",
+        "Nominado": "False",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "Fleetwood Mac",
+        "Album": "Rumours",
+        "Nominado": "False",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "Kendrick Lamar",
+        "Album": "Good Kid, M.A.A.D City",
+        "Nominado": "False",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "Boston",
+        "Album": "Boston",
+        "Nominado": "False",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "Led Zeppelin",
+        "Album": "Led Zeppelin IV",
+        "Nominado": "False",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "Interpol",
+        "Album": "Turn on the Bright Lights",
+        "Nominado": "False",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "Frank Ocean",
+        "Album": "Channel Orange",
+        "Nominado": "False",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "Pink Floyd",
+        "Album": "The Dark Side of the Moon",
+        "Nominado": "False",
+        "Visitado": "False"
+    },
+    {
+        "Artist": "The Beach Boys",
+        "Album": "Pet Sounds",
+        "Nominado": "False",
+        "Visitado": "False"
+    }
+]
