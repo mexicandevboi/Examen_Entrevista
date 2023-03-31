@@ -2,7 +2,7 @@
 
 En el presente Repo se encuentra un archivo JSON con una lista de Álbumes, cuenta con artista, `álbum`, `visitado` y `nominado`.
 
-1. **Como primera actividad:** se requiere que se lea dicho documento en el lenguaje y paradigma de su elección y demuestre que se se tienen los datos en memoria.
+1. **Como primera actividad:** se requiere que se lea dicho documento en el lenguaje y paradigma de su elección y demuestre que los datos fueron leidos.
 2. **Como segunda actividad:** Debe de ser posible realizar una búsqueda dentro de esta lista ya sea por nombre del álbum o por artista.
 3. **Como actividad Final:** Se requiere que entregue una lista aleatoria de 4 Álbumes con las siguientes características, **no** debe de tomar álbumes `ya visitados`, y en medida de lo posible que tome al menos un álbum `no nominado` si es que aun quedan álbumes `no nominados`, una vez mostrada la lista marcar todos los álbumes mostrados como nominados.
 
